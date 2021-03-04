@@ -46,7 +46,7 @@ const Login: React.FC<LoginProps> = ({setIsLoggedIn, history, setUsername: setUs
           <IonButtons slot="start">
             <IonMenuButton></IonMenuButton>
           </IonButtons>
-          <IonTitle>Login</IonTitle>
+          <IonTitle>Login to Impact for Christ Ministries</IonTitle>
         </IonToolbar>
       </IonHeader>
       <IonContent>
